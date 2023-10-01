@@ -18,5 +18,4 @@ Main design pattern used was (M,V,C) Model, View, Controller for structure. Prog
 <img width="1870" alt="image" src="https://github.com/RodoJML/UniversityCalendar/assets/63088555/dda6dfa8-98e0-4e51-8d16-005f38c801e8">
 
 This was the final project for the Course "BIS02 - Programming II" at Universidad Latina de Costa Rica in 2021.
-
-    Since project development was for Spanish students and professor, both the app and all code comments are in spanish.
+Since project development was for Spanish students and professor, both the app and all code comments are in spanish.
