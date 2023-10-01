@@ -7,7 +7,7 @@ This was the final project for the Course "BIS02 - Programming II" at Universida
 
 **To run the app**
 
-    1. Download the .jar file "CalendarioUniversitario.jar" 
+    1. Download the .jar file "CalendarioUniversitario.jar" located in the "dist" folder of this repo. 
 
     2. Make sure Java is installed on your computer. 
 
