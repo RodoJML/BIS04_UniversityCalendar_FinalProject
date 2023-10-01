@@ -16,4 +16,4 @@ This was the final project for the Course "BIS02 - Programming II" at Universida
     Example: Java -jar /Users/rodo/Documents/Developer/Java/Finished\ Programs/CalendarioUniversitario.jar
 
 
-Since project development was for Spanish students and also professor, both the app and all code comments are in spanish.
+Since project development was for Spanish students and professor, both the app and all code comments are in spanish.
