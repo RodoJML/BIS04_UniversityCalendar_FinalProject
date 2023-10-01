@@ -14,3 +14,6 @@ This was the final project for the Course "BIS02 - Programming II" at Universida
     3. Run the following command "Java -jar /filepath" (Replace the "/filepath" word with the location of the .jar file.
 
     Example: Java -jar /Users/rodo/Documents/Developer/Java/Finished\ Programs/CalendarioUniversitario.jar
+
+
+Since project development was for Spanish students and also professor, both the app and all code comments are in spanish.
