@@ -3,8 +3,6 @@
 
 Main design pattern used was (M,V,C) Model, View, Controller for structure. Program contains at least 1200 lines of code, using 1 external or additional library called "jdatepicker" for all the calendar features. 
 
-This was the final project for the Course "BIS02 - Programming II" at Universidad Latina de Costa Rica in 2021
-
 **To run the app**
 
     1. Download the .jar file "CalendarioUniversitario.jar" located in the "dist" folder of this repo. 
@@ -21,3 +19,4 @@ Since project development was for Spanish students and professor, both the app a
 ## Class Diagram
 <img width="1870" alt="image" src="https://github.com/RodoJML/UniversityCalendar/assets/63088555/dda6dfa8-98e0-4e51-8d16-005f38c801e8">
 
+This was the final project for the Course "BIS02 - Programming II" at Universidad Latina de Costa Rica in 2021.
